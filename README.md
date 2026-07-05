@@ -5,6 +5,7 @@ Welcome to Samiksha's Academic Result Manager! 🎓
 This is a simple Python project that helps calculate a student's Total Marks, Percentage, Grade, and Pass/Fail Result quickly and accurately.
 
 ## ✨ Features
+
 📌 Enter Student Name
 📌 Enter Marks for Multiple Subjects
 📌 Calculate Total Marks Automatically
@@ -21,12 +22,10 @@ This project was created to practice Python basics such as variables, user input
  • 🐍 Python 3
 
 ## ▶️ How to Run
+
 1. Install Python.
 2. Open the project.
 3. Run the Python file.
-
-## 📸 Screenshot
-![Calculator Output](IMG_20260705_102013.jpg)
 
 ## 📚 What I Learned
  • Variables
