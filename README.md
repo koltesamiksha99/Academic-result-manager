@@ -1,59 +1,53 @@
-📚 Academic Result Manager
+# 📚 Academic Result Manager
 
-A simple Python project to manage and calculate students' academic results.
+Welcome to Samiksha's Academic Result Manager! 🎓
 
-✨ Features
+This is a simple Python project that helps calculate a student's Total Marks, Percentage, Grade, and Pass/Fail Result quickly and accurately.
 
-- Add student name
-- Enter marks for multiple subjects
-- Calculate total marks
-- Calculate percentage
-- Display Pass/Fail result
-- Show Grade based on percentage
+## ✨ Features
+📌 Enter Student Name
+📌 Enter Marks for Multiple Subjects
+📌 Calculate Total Marks Automatically
+📌 Calculate Percentage
+📌 Display Grade (A, B, C, D, F)
+📌 Show Pass/Fail Status
+📌 Beginner-Friendly Python Code
 
-🛠️ Technologies Used
+## 🎯 Project Objective
 
-- Python 3
+This project was created to practice Python basics such as variables, user input, conditional statements, and arithmetic operations.
 
-🚀 How to Run
+## 🛠️ Technologies Used
+ • 🐍 Python 3
 
-1. Install Python 3.
-2. Download or clone this repository.
-3. Open the project folder.
-4. Run the program:
-   python academic_result_manager.py
+## ▶️ How to Run
+1. Install Python.
+2. Open the project.
+3. Run the Python file.
 
-📷 Sample Output
+## 📸 Screenshot
+![Calculator Output](IMG_20260705_102013.jpg)
 
-📚 Academic Result Manager
+## 📚 What I Learned
+ • Variables
+ • Lists
+ • Loops
+ • Functions
+ • User Input
+ • If-Else Statements
+ • Arithmetic Operations
 
-Enter Student Name: Samiksha
-
-Enter marks for 5 subjects:
-Subject 1: 90
-Subject 2: 85
-Subject 3: 88
-Subject 4: 92
-Subject 5: 80
-
-Total Marks: 435
-Percentage: 87.0%
-
-Result: Pass
-Grade: A
-
-🎯 Learning Objectives
-
-- Variables
-- Lists
-- Loops
-- Functions
-- Conditional Statements (if-elif-else)
-- User Input
-- Basic Python Logic
-
-👩‍💻 Author
-
+## 👩‍💻 Author
 Samiksha Kolte
 
-⭐ If you like this project, don't forget to star the repository!
+## 📄 License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## 🚀 Future Improvements
+
+💾 Save student records to a file
+- 📝 Edit and delete student records
+- 📊 Generate performance reports
+- 🌐 Develop a web version using HTML,      CSS, and Flask
+- 🗄️ Store data in a database
