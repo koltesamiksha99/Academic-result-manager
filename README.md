@@ -29,8 +29,7 @@ This project was created to practice Python basics such as variables, user input
 
 ## 📸 Screenshot
 
-![Academic Result Manager]
-(IMG_20260705_154304.jpg)
+![Academic Result Manager](IMG_20260705_154304.jpg)
 
 ## 📚 What I Learned
  • Variables
